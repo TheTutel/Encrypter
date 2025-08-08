@@ -1,0 +1,12 @@
+Stages
+
+I. Basics (done)
+ I. Buttons ant etc. (done)
+ II. Functions (done)
+II. Additionals (done)
+ I. Dictionary (done)
+ II. Animations (canceled)
+III. Visuals
+ I. Images (done)
+ II. Themes (canceled)
+ III. Buttons for themes (canceled)
